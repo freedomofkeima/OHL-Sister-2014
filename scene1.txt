@@ -1,0 +1,277 @@
+3 3
+
+0 500 15
+
+7 1000 15
+
+                   /\__/\
+                  / . .  |----------\
+                 |   w             / \
+                  \____/----------/   O
+                         | |  | |
+                  
+				 
+7 150 15
+                   /\__/\             
+                  / . .  |----------\_o
+                 |   w             / 
+                  \____/----------/   
+                         / /  \ \
+						 
+                  
+
+7 300 15 VC 104 E6 70 C6 150
+
+                 /\__/\
+                / . .  |----------\
+               |   w             / \
+                \____/----------/   O
+                       | |  | |
+                  
+
+7 150 15
+                 /\__/\             
+                / . .  |----------\_o
+               |   w             / 
+                \____/----------/  
+                       / /  \ \
+					   
+                  
+
+7 300 15 E6 70 C6 150
+
+               /\__/\
+              / . .  |----------\
+             |   w             / \
+              \____/----------/   O
+                     | |  | |
+                  				  
+7 150 15
+               /\__/\             
+              / . .  |----------\_o
+             |   w             / 
+              \____/----------/  
+                     / /  \ \
+					 
+                 
+
+7 600 15 E6 70 C6 150
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+            \____/----------/   O
+                   | |  | |
+
+				   
+7 300 15
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+            \____/----------/   O
+                   / |  | |
+
+				   
+7 300 15 B5 100 E6 200 0 200
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+            \____/----------/   O
+                   | |  | |	
+
+				   
+7 300 15 VC 10 F#5 200
+
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+            \____/----------/   O
+                   | |  | |	
+
+
+7 300 15 G5 200
+
+
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+            \____/----------/   O
+
+7 300 15 G#5 200
+
+
+
+
+             /\__/\
+            / . .  |----------\
+           |   w             / \
+
+7 300 15 A5 200
+
+
+
+
+
+             /\__/\
+            / . .  |----------\		
+
+7 300 15 A#5 200
+
+
+
+
+
+
+             /\__/\
+
+0 300 15 B5 200
+			 
+7 300 15 C6 200
+            SSSSSS
+            S
+            S
+            SSSSSS
+                 S
+                 S
+            SSSSSS
+            
+7 300 15 C#6 200
+            SSSSSS    I
+            S         I
+            S         I
+            SSSSSS    I
+                 S    I
+                 S    I
+            SSSSSS    I
+            
+7 300 15 D6 200
+            SSSSSS    I   SSSSSS
+            S         I   S
+            S         I   S
+            SSSSSS    I   SSSSSS
+                 S    I        S
+                 S    I        S
+            SSSSSS    I   SSSSSS
+            
+7 300 15 D#6 200
+            SSSSSS    I   SSSSSS   TTTTTTTTT
+            S         I   S            T
+            S         I   S            T
+            SSSSSS    I   SSSSSS       T
+                 S    I        S       T
+                 S    I        S       T
+            SSSSSS    I   SSSSSS       T
+            
+7 300 15 E6 200
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE
+            S         I   S            T       E
+            S         I   S            T       E
+            SSSSSS    I   SSSSSS       T       EEEEEE
+                 S    I        S       T       E
+                 S    I        S       T       E
+            SSSSSS    I   SSSSSS       T       EEEEEE
+            
+7 300 15 F6 200
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR 
+                 S    I        S       T       E        R  R
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R 
+			
+9 300 15 F#6 200
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR 
+                 S    I        S       T       E        R  R
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R 
+
+                   P   R   O   D   U   C   T   I   O   N			
+
+9 200 15 C5 150
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR    
+                 S    I        S       T       E        R  R    
+           *     S    I        S       T       E        R   R *
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R
+
+                   P   R   O   D   U   C   T   I   O   N			
+			
+9 200 15 F5 150
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+       *    SSSSSS    I   SSSSSS       T       EEEEEE   R RR    *
+      * *        S    I        S       T       E        R  R   * *
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R   
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+9 200 15 C6 150
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+    *       S         I   S            T       E        R    R       *
+            S         I   S            T       E        R    R       
+  *         SSSSSS    I   SSSSSS       T       EEEEEE   R RR            *
+    *            S    I        S       T       E        R  R          *
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R   
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+9 200 15 F6 150
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R   
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR        
+                 S    I        S       T       E        R  R      
+  *              S    I        S       T       E        R   R           *
+     *      SSSSSS    I   SSSSSS       T       EEEEEE   R    R       *
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+9 1000 15
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR 
+                 S    I        S       T       E        R  R
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R   
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+9 500 7
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR 
+                 S    I        S       T       E        R  R
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R   		
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+9 500 8
+            SSSSSS    I   SSSSSS   TTTTTTTTT   EEEEEE   RRRRR
+            S         I   S            T       E        R    R
+            S         I   S            T       E        R    R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R RR 
+                 S    I        S       T       E        R  R
+                 S    I        S       T       E        R   R
+            SSSSSS    I   SSSSSS       T       EEEEEE   R    R 
+
+                   P   R   O   D   U   C   T   I   O   N			
+				   
+0 1000 7
+
+-1
